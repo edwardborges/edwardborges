@@ -5,6 +5,8 @@
 - 🌱 Estudando Observalidade Datadog|Prometeus| Grafana.
 - 📫 Contate-me no e-mail: eduardoluizb@yahoo.com.br.
 
+Languages and Tools:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg">
@@ -26,6 +28,9 @@
 As referencias de imagens peguei do Devion: https://devicon.dev/
 
 
+Let's connect:
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/eduardo-borges-81a9037b/)
 
 
 
