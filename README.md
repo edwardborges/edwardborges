@@ -1,7 +1,7 @@
 ### Olá! Sou o Eduardo Borges 👋
 
 
-- 🔭 Eu estou atualmente trabalhando como Devops Engineer.jr
+- 🔭 Eu estou atualmente trabalhando como Devops Engineer
 - 🌱 Estudando Observalidade Datadog|Prometeus| Grafana.
 - 📫 Contate-me no e-mail: eduardoluizb@yahoo.com.br.
 
