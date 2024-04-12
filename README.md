@@ -2,13 +2,14 @@
 
 
 - 🔭 Eu estou atualmente trabalhando como Devops Engineer
-- 🌱 Estudando Observalidade Datadog|Prometeus| Grafana.
+- 🌱 Estudando Cloud AZURE.
 - 📫 Contate-me no e-mail: eduardoluizb@yahoo.com.br.
 
 Languages and Tools:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg">
   <img align="center" alt="Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
@@ -25,14 +26,4 @@ Languages and Tools:
 
 
 
-As referencias de imagens peguei do Devion: https://devicon.dev/
-
-
-Let's connect:
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>](https://www.linkedin.com/in/eduardo-borges-81a9037b/)
-
-
-
-
-
+As referencias de imagens peguei do Devion: [https://devicon.dev/](https://devicon.dev/)
