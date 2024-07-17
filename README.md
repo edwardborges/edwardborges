@@ -21,7 +21,7 @@ Languages and Tools:
   <img align="center" alt="Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg">
   <img align="center" alt="Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="Sua-imagem" height="150" style="border-radius:50px;" src="https://i.imgur.com/y7VhMwk.png">
+  
 </div>
 
 
