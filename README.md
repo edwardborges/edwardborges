@@ -2,7 +2,7 @@
 
 
 - 🔭 Eu estou atualmente trabalhando como Devops Engineer
-- 🌱 Estudando Cloud AZURE.
+- 🌱 Atualmente focando em estudos de Kubernetes
 - 📫 Contate-me no e-mail: eduardoluizb@yahoo.com.br.
 
 Languages and Tools:
